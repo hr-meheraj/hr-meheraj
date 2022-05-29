@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **I am hard worker**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: [![][https://img.icons8.com/bubbles/2x/gmail-new.png]][mailto:hrmeheraj2021@gmail.com] </h3>
 <p align="left">
 <a href="https://codepen.io/codepen.io/hrmeheraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="codepen.io/hrmeheraj" height="30" width="40" /></a>
 <a href="https://fb.com/https://facebook.com/hr.meheraj.50" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://facebook.com/hr.meheraj.50" height="30" width="40" /></a>
