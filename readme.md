@@ -1,4 +1,4 @@
-![](https://codecondo.com/wp-content/uploads/2017/01/Learn-to-Code.jpg)
+![](https://i.ibb.co/gWYqN3P/cover.jpg)
 <h3 align="center">Learning to Code by doing project</h3>
 
 - 🌱 I’m currently learning **Web Development**
