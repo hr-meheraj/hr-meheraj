@@ -12,7 +12,7 @@
 - ⚡ Fun fact **I am hard worker**
 
 <h3 align="left">Connect with me: </h3>
-<p align="left">
+<p align="left" style="display:flex; justify-content:center">
 <a href="https://hr-meheraj.vercel.app" target="blank"><img align="center" src="https://img.icons8.com/fluency/344/internet.png" alt="hrmeheraj" height="40" width="40" /></a>
   
 <a href="https://linkedin.com/in/habib-meheraj" target="blank"><img align="center" src="https://img.icons8.com/nolan/344/linkedin-circled.png" alt="Linkedin Hr Meheraj" height="40" width="40" /></a>
